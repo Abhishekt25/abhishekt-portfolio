@@ -51,7 +51,7 @@ export default function Cursor() {
         className="fixed z-[9999] pointer-events-none -translate-x-1/2 -translate-y-1/2"
         style={{
           width: 10, height: 10, borderRadius: '50%',
-          background: '#6366f1', mixBlendMode: 'difference',
+          background: '#6366f1', mixBlendMode: 'difference', 
           transition: 'width 0.2s, height 0.2s',
         }}
       />
